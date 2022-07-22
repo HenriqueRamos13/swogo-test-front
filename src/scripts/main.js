@@ -1,5 +1,5 @@
-// const API_URL = "http://localhost:3333";
-const API_URL = "https://swogo-back.herokuapp.com";
+const API_URL = "http://localhost:3333";
+// const API_URL = "https://swogo-back.herokuapp.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   const list2 = document.getElementById("products-list2");
